@@ -7,3 +7,7 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+  - title: Posts
+    url: /posts/
