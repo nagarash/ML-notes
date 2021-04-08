@@ -8,6 +8,8 @@ tags:
   - Regression
 ---
 
+usemathjax: true
+
 ### Mathematical Theory & Equations
  
 A multiple regression model with k predictor variables X1, X2, X3,  …Xk and a response y can be written as 
