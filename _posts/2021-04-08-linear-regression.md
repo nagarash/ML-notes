@@ -1,5 +1,6 @@
-usemathjax: true
+
 ---
+usemathjax: true
 title: "Linear Regression"
 categories:
   - Regression
