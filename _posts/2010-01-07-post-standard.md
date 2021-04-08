@@ -18,5 +18,4 @@ where,
 Y_i  is the fitted value for ith observation with actual response y_i  (i = 1,2,3 … n)
 β_0, β_1, …β_(n )  are the unknown model parameters
 ε_i  is the residual error. It is the difference between the actual response y_i  and fitted value Y_i
-![image](https://user-images.githubusercontent.com/16879801/114081175-3bb3c000-987a-11eb-81af-d1b4dadda5d4.png)
 
