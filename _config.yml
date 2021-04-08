@@ -54,8 +54,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-sidebar:
-  nav: "docs"
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 
 # author:
 #   name   : "First Lastname"
