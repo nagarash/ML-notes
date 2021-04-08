@@ -6,9 +6,10 @@ tags:
   - Supervised Learning
   - Linear Models
   - Regression
+usemathjax: true
 ---
 
-usemathjax: true
+
 
 ### Mathematical Theory & Equations
  
