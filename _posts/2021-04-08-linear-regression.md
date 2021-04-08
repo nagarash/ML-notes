@@ -1,6 +1,5 @@
 
 ---
-usemathjax: true
 title: "Linear Regression"
 categories:
   - Regression
@@ -8,6 +7,8 @@ tags:
   - Supervised Learning
   - Linear Models
   - Regression
+  
+usemathjax: true
 ---
 
 
